@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(225, 153, 221);
+}
+
+h2 {
+    color: rgb(67, 34, 123);
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+}
+
+img {
+    border-radius: 10% ;
+
+}  
+
+.c1 {
+    width: 270px;
+    border: 14%;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+.c2 {
+    width: 350px;
+    border: 14%;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+.c3 {
+    width: 350px;
+    border: 14%;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+li {
+    font-size: 30px;
+    color: rgb(53, 0, 152);
+}
