@@ -1,0 +1,32 @@
+.c1 {
+    width: 100px;
+    border: 14%;
+    border-radius: 3px;
+    opacity: 0.9;
+}
+
+.c2 {
+    width: 100px;
+    border: 14%;
+    border-radius: 3px;
+    opacity: 0.9;
+}
+
+.c3 {
+    width: 100px;
+    border: 14%;
+    border-radius: 3px;
+    opacity: 0.9;
+}
+
+html {
+    background-color: antiquewhite;
+}
+
+td {
+    font-size: xx-large;
+}
+
+th {
+    font-size: x-large;
+}
