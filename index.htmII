@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>котики</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <ul>
+        <h1>коты</h1>
+        <li><img class="c1" src="images (1).jpg" alt="">это маленький кот</li>
+        <h2>мини китик</h2>
+        <li><img class="c2" src="Без названия (3).jpg" alt="">это удивленный кот</li>
+        <h2>удивленный китик</h2>
+        <li><img class="c3" src="images.jpg" alt="" width="300" height="215" title="Всплывающая подсказка">это наглый кот</li>
+        <h2>наглый китик</h2>
+    </ul>
+    </body>
